@@ -98,9 +98,9 @@ User Stories:
 
 1. A new player can register
 2. Players 1 and 2 can log in
-3. users can log out
-4. a new game can be started
-5. user's can see play stats
+3. Users can log out
+4. A new game can be started
+5. User's can see play statistics
 
 Creative spin:
 
